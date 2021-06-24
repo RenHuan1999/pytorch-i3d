@@ -1,0 +1,106 @@
+0,squat snatch
+1,play the accordion
+2,push wheelchair
+3,kiss
+4,play the drums
+5,play badminton
+6,brush hair
+7,play volleyball
+8,smoking
+9,clean and jerk
+10,keep goal
+11,bungee jumping
+12,play the harmonica
+13,wash vegetables or fruit
+14,long jump
+15,pull ups
+16,climbing tree
+17,play the piano
+18,pole vault
+19,hula hooping
+20,play tennis
+21,play the keyboard
+22,climbing ladder
+23,carry baby
+24,crawling baby
+25,mow lawn
+26,throw discus
+27,dribble basketball
+28,dunk basketball
+29,cast basketball
+30,springboard diving
+31,skateboarding
+32,shot put
+33,pitch baseball
+34,hit baseball
+35,catch baseball
+36,shake hands
+37,braid hair
+38,play the cello
+39,draw lipstick
+40,cut nails
+41,applaud
+42,freestylerelay
+43,high jump
+44,play bowling
+45,wash dishes
+46,play the harp
+47,play the flute
+48,play the guitar
+49,hug
+50,cut hair
+51,apply eyeliner
+52,make a telephone call
+53,play the violin
+54,rope skipping
+55,shave head
+56,sweep floor
+57,arrange flowers
+58,shot soccer
+59,pass soccer
+60,play the trumpet
+61,play ice hockey
+62,play the bagpipes
+63,play the saxophone
+64,wash feet
+65,straighten hair
+66,cut vegetables
+67,fold clothes
+68,brush teeth
+69,archery
+70,breaststroke
+71,put on mascara
+72,wash hands
+73,chop wood
+74,play table tennis
+75,trim or shave beard
+76,triple jump
+77,clean windows
+78,tie shoelaces
+79,butterflystroke
+80,backstroke
+81,hurdling
+82,paint eye shadow
+83,play hockey
+84,water plants
+85,apply lipstick
+86,fencing
+87,mop floor
+88,chopping meat
+89,arm wrestling
+90,apply eyebrows
+91,trim trees
+92,wipe
+93,dry hair
+94,ride scooter
+95,javelin throw
+96,pass basketball
+97,drop golf
+98,massage
+99,swing
+100,ride a bike
+101,dig hole
+102,apply nails
+103,trim shrubs
+104,wash face
+105,wipe the table
