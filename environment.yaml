@@ -10,9 +10,9 @@ dependencies:
   - cudnn=7.6.5=cuda9.0_0
   - ld_impl_linux-64=2.35.1=h7274673_9
   - libffi=3.3=he6710b0_2
-  - libgcc-ng=9.3.0=h5101ec6_17
+  # - libgcc-ng=9.3.0=h5101ec6_17
   - libgomp=9.3.0=h5101ec6_17
-  - libstdcxx-ng=9.3.0=hd4cf53a_17
+  # - libstdcxx-ng=9.3.0=hd4cf53a_17
   - ncurses=6.2=he6710b0_1
   - openssl=1.1.1k=h27cfd23_0
   - pip=21.1.2=py36h06a4308_0
@@ -31,8 +31,8 @@ dependencies:
     - pillow==8.2.0
     - pyyaml==5.4.1
     - six==1.16.0
-    - torch==0.3.0.post4
-    - torchvision==0.2.2
+    # - torch==0.3.0.post4
+    # - torchvision==0.2.2
     - tqdm==4.19.9
 prefix: /data/rh/anaconda3/envs/i3d
 

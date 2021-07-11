@@ -104,6 +104,7 @@ def make_dataset(split_file, split, root, mode, num_classes=106):
         dataset.append((vid, label, data[vid]['duration'], num_frames))
         i += 1
     
+    dataset.sort(key = lambda e: e[0])
     return dataset
 
 
